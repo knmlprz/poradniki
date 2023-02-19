@@ -1,0 +1,6 @@
+[submodule "scala-course"]
+	path = scala-course
+	url = https://github.com/knmlprz/scala-course
+[submodule "python-tutorial"]
+	path = python-tutorial
+	url = https://github.com/knmlprz/python-tutorial
